@@ -1,0 +1,16 @@
+# Ignore virtual environment
+.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# macOS junk
+.DS_Store
+
+# Test outputs or logs (optional)
+*.log
