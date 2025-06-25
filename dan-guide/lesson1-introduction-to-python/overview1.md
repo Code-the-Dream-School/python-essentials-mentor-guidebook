@@ -1,27 +1,43 @@
 # Lesson 1: Introduction to Python – Mentor Guide
 
-For this lesson I just walk through the actual lesson with them and make sure the virtual environment is working. This part of the lesson I like to stress/demonstrate to them: "Once your virtual environment is activated, you see .venv as part of your terminal prompt.  Be sure that is present for all subsequent work.  When you create a new terminal session, you have to activate the virtual environment again.  When the virtual environment is active, you can always use the commands python and pip, that is, you don't need python3 or pip3."
+For this lesson, I just walk through the actual lesson with students and make sure the virtual environment is working.
+I will run the commands from the main workflow.md to show tests passing, but I don't show solutions directly.  
 
-How to open the command palette (`Ctrl+Shift+P`)
-Type `Python: Select Interpreter`
-Choose the one with `.venv` in the path
+### Emphasize to students:
+“Once your virtual environment is activated, you’ll see .venv in your terminal prompt.  
+Be sure that is present for all subsequent work.  
+Every time you start a new terminal session, you must activate the virtual environment again.  
+When the virtual environment is active, you can always use python and pip,  
+no need for python3 or pip3.”
 
-I also like to cover that the coding assignment is good to practice(without AI) because DSA/leetcode is a common theme in job interviews. 
+---
 
-Setup Commands
+### VS Code Interpreter Setup
 
-```bash
-# Create and enter project directory name it whatever you want
-mkdir ctd_py && cd ctd_py
-git clone https://github.com/Code-the-Dream-School/python_homework.git
+1. Open the command palette: Ctrl+Shift+P  
+2. Type: Python: Select Interpreter  
+3. Choose the interpreter with .venv in the path
+
+---
+
+### Interview Note
+
+I like to remind them that the coding assignment is good practice without AI assistance,  
+since data structures and algorithms (DSA/Leetcode) are a common theme in technical interviews.
+
+---
+
+### Setup Commands
+
+Create and enter project directory:  
+mkdir ctd_py && cd ctd_py  
+git clone https://github.com/Code-the-Dream-School/python_homework.git  
 cd python_homework
 
-# Create and activate virtual environment
-python -m venv .venv       # or python3 -m venv .venv
-source .venv/Scripts/activate  # Windows
-# or
-source .venv/bin/activate      # Mac/Linux
+Create and activate virtual environment:  
+python -m venv .venv         (or python3 -m venv .venv)  
+source .venv/Scripts/activate     (Windows)  
+source .venv/bin/activate         (Mac/Linux)
 
-# Install required packages
+Install required packages:  
 pip install virtualenv pytest
-```
