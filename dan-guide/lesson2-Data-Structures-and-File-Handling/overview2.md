@@ -1,9 +1,10 @@
 # Lesson 2: Data Structures and File Handling – Mentor Guide
 
-This session covers the most commonly used built-in data structures in Python — lists, dictionaries, tuples, and sets — as well as file handling basics. I usually ask students which ones they’ve used before and how comfortable they feel with them.
+This session covers the most commonly used built-in data structures in Python: lists, dictionaries, tuples, and sets, along with file handling basics.  
+I start by covering the slides and lesson then go over some sample uses for these, especially in Leetcode-type problems.  
+This is the first time students work with reading and writing files, so I like to cover opening and closing files, and write vs append.
 
-This is the first time students work with reading and writing files, so I give them space to struggle a bit and figure out common issues (e.g., missing files, wrong paths, forgetting to close the file).
-
+This lesson uses the `csv/` directory, located at the root of `dan-guide`, for the test files. 
 ---
 
 ## Topics to Cover
@@ -25,9 +26,4 @@ This is the first time students work with reading and writing files, so I give t
 - When would you use a dictionary instead of a list?  
 - Why is it useful to use `with open(...)` instead of just `open()`?
 
----
 
-## Commands (Run after setup from `dan-guide` root)
-
-cd lesson2-data-structures-and-file-handling  
-pytest -v -x assignment2-test.py

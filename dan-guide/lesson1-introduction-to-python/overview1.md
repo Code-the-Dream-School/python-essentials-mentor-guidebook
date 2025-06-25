@@ -24,6 +24,8 @@ no need for python3 or pip3.”
 
 I like to remind them that the coding assignment is good practice without AI assistance,  
 since data structures and algorithms (DSA/Leetcode) are a common theme in technical interviews.
+One example that comes to mind is the operators "/" vs "//" and I usually use the sudoku solution to explain this difference.
+[Valid Sudoku – LeetCode](https://leetcode.com/problems/valid-sudoku/description/)
 
 ---
 
