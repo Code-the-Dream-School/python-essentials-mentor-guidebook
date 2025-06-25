@@ -1,7 +1,6 @@
 # Basic Workflow of Using This Mentor Guide
 
 This guide was last updated for the Python 100 Summer 2025 class. Any and all feedback is welcome. You can send it to me directly on Slack or email me at politykadan@gmail.com.
-
 Course order may shift as needs arise, but this guide uses the order for the Summer 2025 class.
 I have moved over assignment files as needed for the way that I do mentor sessions.
 Each assignment has a brief overview to quickly cover the lesson topics and I added notes that I use to refresh my memory.
@@ -21,6 +20,10 @@ Due to a reordering of course material the slides may show different weeks, so c
 - [Lesson 2: Data Structures and File Handling](lesson2-data-structures-and-file-handling/overview2.md)
   - cd lesson2-data-structures-and-file-handling  
   - pytest -v -x assignment2-test.py
+
+- [Lesson 3: Valid Sudoku and Nested Loops](lesson3-valid-sudoku-and-nested-loops/overview3.md)  
+  - cd lesson3-valid-sudoku-and-nested-loops  
+  - pytest -v -x assignment3-test.py  
 ---
 
 ## Setup Instructions (from `dan-guide` root)
