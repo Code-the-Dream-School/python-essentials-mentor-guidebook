@@ -22,8 +22,7 @@ Due to a reordering of course material the slides may show different weeks, so c
   - pytest -v -x assignment2-test.py
 
 - [Lesson 3: Valid Sudoku and Nested Loops](lesson3-valid-sudoku-and-nested-loops/overview3.md)  
-  - cd lesson3-valid-sudoku-and-nested-loops  
-  - pytest -v -x assignment3-test.py  
+  - cd lesson3-more-python-skills
 ---
 
 ## Setup Instructions (from `dan-guide` root)
