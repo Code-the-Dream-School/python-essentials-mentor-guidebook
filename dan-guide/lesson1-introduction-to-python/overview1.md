@@ -1,6 +1,6 @@
 # Lesson 1: Introduction to Python – Mentor Guide
 
-For this lesson, I just walk through the actual lesson with students and make sure the virtual environment is working.
+For this lesson, I just walk through the slides PDF and the lesson with students and make sure the virtual environment is working.
 I will run the commands from the main workflow.md to show tests passing, but I don't show solutions directly.  
 
 ### Emphasize to students:
