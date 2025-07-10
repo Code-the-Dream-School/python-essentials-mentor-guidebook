@@ -18,6 +18,7 @@ root.title("Tkinter Demo with Employee Directory")
 root.geometry("1080x600")
 root.configure(bg="#f0f0f0")
 
+
 # Function to update label text
 def greet_user():
     name = entry.get()

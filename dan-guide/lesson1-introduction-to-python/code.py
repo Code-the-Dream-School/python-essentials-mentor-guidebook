@@ -194,6 +194,7 @@ def set_name():
 set_name()
 print("Name:", name)
 wait()
+
 def set_name_global():
     global name
     name = "James"  
