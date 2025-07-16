@@ -27,4 +27,8 @@ code.py has a terminal based walkthrough of the lesson.
 - When would you use a dictionary instead of a list?  
 - Why is it useful to use `with open(...)` instead of just `open()`?
 
+## Library of the Week
+
+ - rich.py
+
 
