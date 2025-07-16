@@ -5,6 +5,7 @@ I start by covering the slides and lesson then go over some sample uses for thes
 This is the first time students work with reading and writing files, so I like to cover opening and closing files, and write vs append.
 
 This lesson uses the `csv/` directory, located at the root of `dan-guide`, for the test files. 
+code.py has a terminal based walkthrough of the lesson. 
 ---
 
 ## Topics to Cover

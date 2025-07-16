@@ -17,7 +17,7 @@ Navigate to the assignment1 directory
 Inside the venv  
 Run the following command in terminal:
 
-  pytest -v -x assignment1-test.py
+  pytest -v -x assignment2-test.py
 
 All tests must pass  
 If any test fails, review the corresponding function in assignment1.py
