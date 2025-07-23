@@ -13,3 +13,4 @@
 - Review public learning and how it helps with career building
 - Encourage sharing goals and mindset struggles with the group
 - I also emphasize that the Python course has a lot of work in it, especially the capstones.
+- if you need help setting up zoom as host and recording I have three screenshots included. 
