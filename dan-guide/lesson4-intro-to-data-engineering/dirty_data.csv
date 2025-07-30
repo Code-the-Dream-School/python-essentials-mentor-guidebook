@@ -1,0 +1,6 @@
+Name,Age,Salary,Department,Hire Date
+ Alice ,58,105000, Biotech,2014-02-07
+Bob,Thirty,unknown,engineering,not_a_date
+Alice,24,70000,HR,2020-01-01
+Eve,,n/a,Engineering ,2021/06/15
+Alice,24,70000,HR,2020-01-01
