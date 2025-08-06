@@ -2,7 +2,6 @@
 
 import pandas as pd
 import numpy as np
-import os
 
 def wait():
     input("\nPress Enter to continue...\n")
