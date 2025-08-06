@@ -46,15 +46,43 @@ wait()
 #! SECTION 3: Merging and Joining
 print("=== Section 3: Merging and Joining ===")
 merged = pd.merge(df1, df3, on='Name', how='outer', suffixes=['_left', '_right'])
+#? 'inner' – Only rows with matching keys in both DataFrames are kept.
+# pd.merge(df1, df2, how='inner')
+#? 'left' – All rows from the left DataFrame are kept, and matching rows from the right DataFrame are included. Non-matching right-side rows become NaN.
+# pd.merge(df1, df2, how='left')
+#? 'right' – All rows from the right DataFrame are kept, and matching rows from the left DataFrame are included. Non-matching left-side rows become NaN.
+# pd.merge(df1, df2, how='right')
+#? 'outer' – All rows from both DataFrames are kept. Non-matching entries get NaN for missing values.
+# pd.merge(df1, df2, how='outer')
+#? 'cross' – Performs a cross join (Cartesian product) between the DataFrames. No on key is needed for this join.
+# pd.merge(df1, df2, how='cross')
+# df1 = pd.DataFrame({
+#     'A': [1, 2],
+#     'B': ['x', 'y']
+# })
+
+# df2 = pd.DataFrame({
+#     'C': ['a', 'b', 'c']
+# })
+#    A  B  C
+# 0  1  x  a
+# 1  1  x  b
+# 2  1  x  c
+# 3  2  y  a
+# 4  2  y  b
+# 5  2  y  c
+
 print(merged)
 wait()
 merged['Salary'] = merged['Salary'].fillna(15000)
 merged['Favorite Color'] = merged['Favorite Color'].fillna("yellow")
-merged['Age'] = np.where(merged['Age_left'].notna(), merged['Age_left'], merged['Age_right'])
+#? if left != NaN, uses left, else right
+merged['Age'] = np.where(merged['Age_left'].notna(), merged['Age_left'], merged['Age_right']) 
 merged.drop(columns=['Age_left', 'Age_right'], inplace=True)
 print(merged)
 wait()
 
+#? Joins df1_b and df3_b on their index (Name) using an outer join. Both DFs have Age, so we get lsuffix/rsuffix
 df1_b = df1.set_index('Name')
 df3_b = df3.set_index('Name')
 joined = df1_b.join(df3_b, how='outer', lsuffix='_df1', rsuffix='_df3')
@@ -89,45 +117,4 @@ concatenated = pd.concat([df1, df2], ignore_index=True)
 print(concatenated)
 wait()
 
-#! SECTION 9: Football Data Wrangling
-print("=== Section 9: Football Data Wrangling ===")
-football_path = ""
-for dirname, _, filenames in os.walk('/kaggle/input'):
-    for filename in filenames:
-        if filename == 'results.csv':
-            football_path = os.path.join(dirname, filename)
-
-if football_path:
-    football = pd.read_csv(football_path)
-    print(football.head())
-    wait()
-
-    subset = football[['home_team', 'away_team', 'home_score', 'away_score', 'date']]
-    results_2 = subset.rename(columns={
-        'home_team': 'team',
-        'away_team': 'opponent',
-        'home_score': 'points_for',
-        'away_score': 'points_against'
-    })
-    results_3 = subset.rename(columns={
-        'away_team': 'team',
-        'home_team': 'opponent',
-        'away_score': 'points_for',
-        'home_score': 'points_against'
-    })
-    football = pd.concat([results_2, results_3], ignore_index=True)
-    print(football.head())
-    wait()
-
-    pa = football.groupby('team')['points_against'].mean().sort_values(ascending=False)
-    print("Worst 10 defenses:")
-    print(pa.head(10))
-    wait()
-
-#! SECTION 10: Tunisia Results
-print("=== Section 10: Tunisia Results ===")
-if football_path:
-    tunisia = football[football['team'] == 'Tunisia']
-    recent = tunisia.sort_values(by='date', ascending=False).head(10)
-    print(recent)
-    wait()
+#? Go over Kaggle. 
