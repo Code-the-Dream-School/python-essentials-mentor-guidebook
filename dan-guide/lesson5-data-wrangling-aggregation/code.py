@@ -75,6 +75,7 @@ print(merged)
 wait()
 merged['Salary'] = merged['Salary'].fillna(15000)
 merged['Favorite Color'] = merged['Favorite Color'].fillna("yellow")
+
 #? if left != NaN, uses left, else right
 merged['Age'] = np.where(merged['Age_left'].notna(), merged['Age_left'], merged['Age_right']) 
 merged.drop(columns=['Age_left', 'Age_right'], inplace=True)
