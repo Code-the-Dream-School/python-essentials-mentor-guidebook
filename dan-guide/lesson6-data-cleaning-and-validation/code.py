@@ -111,7 +111,7 @@ wait()
 # Convert types and reformat values like strings and dates
 
 data = {'Name': ['Alice', 'Bob', 'Charlie'],
-        'Age': ['24', '27', '22'],
+        'Age': ['24', '27', '22'], 
         'JoinDate': ['2023-01-15', '2022-12-20', 'invalid']}
 df3 = pd.DataFrame(data)
 
@@ -121,7 +121,7 @@ wait()
 
 df3['Age'] = df3['Age'].astype(int)
 df3['JoinDate'] = pd.to_datetime(df3['JoinDate'], errors='coerce')
-#df3['JoinDate'] = df3['JoinDate'].fillna(pd.Timestamp('2000-01-01'))  #? Can replace NaT in this way
+# df3['JoinDate'] = df3['JoinDate'].fillna(pd.Timestamp('2000-01-01'))  #? Can replace NaT in this way
 print("# After type conversion and handling invalid dates")
 print(df3)
 wait()
