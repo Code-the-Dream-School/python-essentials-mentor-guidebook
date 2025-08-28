@@ -127,7 +127,7 @@ with sqlite3.connect("school_demo.db") as conn:
     enroll_student(cursor, 2, 1)  # Bob → Math 101
     enroll_student(cursor, 2, 2)  # Bob → English 101
     enroll_student(cursor, 3, 2)  # Charlie → English 101
-    enroll_student(cursor, 4, 3)  # Second Alice  → Math 101
+    enroll_student(cursor, 4, 3)  # Second Alice  → Chemistry 101
 
     conn.commit()
 wait()
