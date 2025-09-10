@@ -1,0 +1,1500 @@
+[
+    {
+        "id": 1,
+        "price": "$941,349",
+        "beds": 6,
+        "baths": 3,
+        "sqft": "1,594",
+        "address": "1487 Cedar St, Los Angeles, CA 13126",
+        "image": "/real-estate-2.jpg",
+        "description": "A stylish retreat with modern finishes and space for the whole family.",
+        "features": [
+            "Large garage",
+            "Well-maintained backyard",
+            "Walking distance to parks"
+        ]
+    },
+    {
+        "id": 2,
+        "price": "$695,789",
+        "beds": 3,
+        "baths": 3,
+        "sqft": "1,973",
+        "address": "3305 Oak St, Las Vegas, NV 46799",
+        "image": "/real-estate-3.jpg",
+        "description": "Comfortable living meets convenience in this inviting property.",
+        "features": [
+            "Ocean view",
+            "Well-maintained backyard",
+            "Pet-friendly",
+            "Large garage"
+        ]
+    },
+    {
+        "id": 3,
+        "price": "$620,968",
+        "beds": 5,
+        "baths": 3,
+        "sqft": "1,513",
+        "address": "3534 Pine St, Boston, MA 51007",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Well-maintained backyard",
+            "Close to public transport",
+            "Ocean view"
+        ]
+    },
+    {
+        "id": 4,
+        "price": "$460,026",
+        "beds": 3,
+        "baths": 2,
+        "sqft": "3,176",
+        "address": "2788 Cedar St, Austin, TX 28321",
+        "image": "/real-estate-5.jpg",
+        "description": "Designed for entertaining, this home offers open spaces and cozy corners.",
+        "features": [
+            "Recently renovated",
+            "Swimming pool"
+        ]
+    },
+    {
+        "id": 5,
+        "price": "$414,883",
+        "beds": 5,
+        "baths": 4,
+        "sqft": "3,928",
+        "address": "2322 Oak St, Atlanta, GA 67255",
+        "image": "/real-estate-4.jpg",
+        "description": "A move-in ready gem with timeless charm and practical upgrades.",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Close to public transport",
+            "Gated community"
+        ]
+    },
+    {
+        "id": 6,
+        "price": "$851,812",
+        "beds": 2,
+        "baths": 4,
+        "sqft": "3,753",
+        "address": "1130 Pine St, Philadelphia, PA 52990",
+        "image": "/real-estate-3.jpg",
+        "description": "Spacious rooms and thoughtful details make this house feel like home.",
+        "features": [
+            "Close to public transport",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 7,
+        "price": "$861,534",
+        "beds": 3,
+        "baths": 4,
+        "sqft": "2,198",
+        "address": "3257 Pine St, Orlando, FL 75034",
+        "image": "/real-estate-2.jpg",
+        "description": "Perfect for gatherings, with a layout that flows seamlessly indoors and out.",
+        "features": [
+            "Pet-friendly",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 8,
+        "price": "$850,736",
+        "beds": 3,
+        "baths": 2,
+        "sqft": "2,020",
+        "address": "5000 Pine St, Denver, CO 89569",
+        "image": "/real-estate-4.jpg",
+        "description": "A bright and airy home that balances comfort with sophistication.",
+        "features": [
+            "Walking distance to parks",
+            "Pet-friendly",
+            "Well-maintained backyard"
+        ]
+    },
+    {
+        "id": 9,
+        "price": "$476,604",
+        "beds": 4,
+        "baths": 4,
+        "sqft": "2,188",
+        "address": "3916 Oak St, Atlanta, GA 48927",
+        "image": "/real-estate-3.jpg",
+        "description": "Contemporary design blended with warm accents throughout.",
+        "features": [
+            "Gated community",
+            "Swimming pool",
+            "Close to public transport",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 10,
+        "price": "$305,652",
+        "beds": 6,
+        "baths": 5,
+        "sqft": "1,993",
+        "address": "2070 Cedar St, Atlanta, GA 73881",
+        "image": "/real-estate-3.jpg",
+        "description": "A private getaway in the heart of the city, offering both comfort and style.",
+        "features": [
+            "Large garage",
+            "Swimming pool",
+            "Walking distance to parks",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 11,
+        "price": "$876,222",
+        "beds": 2,
+        "baths": 2,
+        "sqft": "2,166",
+        "address": "4321 Oak St, Portland, OR 57558",
+        "image": "/real-estate-5.jpg",
+        "description": "Freshly updated home that combines character with modern convenience.",
+        "features": [
+            "Well-maintained backyard",
+            "Gated community",
+            "Ocean view",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 12,
+        "price": "$974,712",
+        "beds": 2,
+        "baths": 2,
+        "sqft": "2,964",
+        "address": "2693 Oak St, Boston, MA 30595",
+        "image": "/real-estate-1.jpg",
+        "description": "A versatile property that adapts easily to family life or entertaining guests.",
+        "features": [
+            "Ocean view",
+            "Gated community",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 13,
+        "price": "$400,800",
+        "beds": 6,
+        "baths": 2,
+        "sqft": "3,115",
+        "address": "4868 Maple St, New York, NY 72040",
+        "image": "/real-estate-4.jpg",
+        "description": "Natural light floods this home, highlighting its open plan and finishes.",
+        "features": [
+            "Close to public transport",
+            "Swimming pool"
+        ]
+    },
+    {
+        "id": 14,
+        "price": "$326,471",
+        "beds": 2,
+        "baths": 4,
+        "sqft": "1,697",
+        "address": "1912 Oak St, Atlanta, GA 82111",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Large garage",
+            "Walking distance to parks",
+            "Swimming pool",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 15,
+        "price": "$808,791",
+        "beds": 2,
+        "baths": 5,
+        "sqft": "3,685",
+        "address": "1982 Maple St, Atlanta, GA 74238",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Well-maintained backyard"
+        ]
+    },
+    {
+        "id": 16,
+        "price": "$760,582",
+        "beds": 6,
+        "baths": 3,
+        "sqft": "3,575",
+        "address": "2201 Elm St, Chicago, IL 56455",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Gated community",
+            "Large garage"
+        ]
+    },
+    {
+        "id": 17,
+        "price": "$825,483",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "1,937",
+        "address": "2753 Oak St, Miami, FL 72289",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Swimming pool",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 18,
+        "price": "$432,946",
+        "beds": 4,
+        "baths": 3,
+        "sqft": "2,519",
+        "address": "1372 Oak St, San Diego, CA 96479",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Gated community",
+            "Swimming pool"
+        ]
+    },
+    {
+        "id": 19,
+        "price": "$935,409",
+        "beds": 5,
+        "baths": 5,
+        "sqft": "3,272",
+        "address": "2892 Maple St, Philadelphia, PA 76479",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Walking distance to parks",
+            "Modern kitchen with new appliances",
+            "Large garage",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 20,
+        "price": "$405,073",
+        "beds": 2,
+        "baths": 5,
+        "sqft": "3,623",
+        "address": "4702 Oak St, Detroit, MI 80577",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Close to public transport",
+            "Well-maintained backyard",
+            "Swimming pool"
+        ]
+    },
+    {
+        "id": 21,
+        "price": "$975,836",
+        "beds": 6,
+        "baths": 4,
+        "sqft": "3,239",
+        "address": "2897 Elm St, New York, NY 89221",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Pet-friendly",
+            "Recently renovated",
+            "Well-maintained backyard"
+        ]
+    },
+    {
+        "id": 22,
+        "price": "$710,471",
+        "beds": 6,
+        "baths": 2,
+        "sqft": "2,851",
+        "address": "1755 Pine St, Las Vegas, NV 88509",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Walking distance to parks",
+            "Ocean view",
+            "Swimming pool"
+        ]
+    },
+    {
+        "id": 23,
+        "price": "$765,644",
+        "beds": 4,
+        "baths": 5,
+        "sqft": "1,562",
+        "address": "3954 Pine St, Chicago, IL 59760",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 24,
+        "price": "$951,396",
+        "beds": 4,
+        "baths": 2,
+        "sqft": "2,709",
+        "address": "2198 Elm St, Washington, DC 39604",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Close to public transport",
+            "Recently renovated",
+            "Well-maintained backyard"
+        ]
+    },
+    {
+        "id": 25,
+        "price": "$413,780",
+        "beds": 6,
+        "baths": 3,
+        "sqft": "1,525",
+        "address": "3880 Pine St, Los Angeles, CA 32840",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Walking distance to parks",
+            "Close to public transport",
+            "Recently renovated",
+            "Well-maintained backyard"
+        ]
+    },
+    {
+        "id": 26,
+        "price": "$329,258",
+        "beds": 2,
+        "baths": 4,
+        "sqft": "3,865",
+        "address": "1201 Cedar St, San Francisco, CA 36291",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Recently renovated",
+            "Large garage",
+            "Well-maintained backyard"
+        ]
+    },
+    {
+        "id": 27,
+        "price": "$311,082",
+        "beds": 5,
+        "baths": 4,
+        "sqft": "1,761",
+        "address": "1318 Elm St, Washington, DC 58656",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Swimming pool",
+            "Walking distance to parks",
+            "Gated community"
+        ]
+    },
+    {
+        "id": 28,
+        "price": "$830,175",
+        "beds": 3,
+        "baths": 3,
+        "sqft": "2,569",
+        "address": "3104 Elm St, Philadelphia, PA 94776",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Swimming pool"
+        ]
+    },
+    {
+        "id": 29,
+        "price": "$583,485",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "1,821",
+        "address": "2625 Oak St, Denver, CO 89279",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Well-maintained backyard"
+        ]
+    },
+    {
+        "id": 30,
+        "price": "$612,668",
+        "beds": 3,
+        "baths": 4,
+        "sqft": "2,519",
+        "address": "4346 Cedar St, Washington, DC 59957",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Recently renovated",
+            "Pet-friendly",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 31,
+        "price": "$547,357",
+        "beds": 3,
+        "baths": 5,
+        "sqft": "2,177",
+        "address": "3225 Elm St, Portland, OR 99902",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Gated community"
+        ]
+    },
+    {
+        "id": 32,
+        "price": "$724,365",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "1,921",
+        "address": "4229 Elm St, Detroit, MI 63547",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Close to public transport",
+            "Walking distance to parks"
+        ]
+    },
+    {
+        "id": 33,
+        "price": "$683,952",
+        "beds": 3,
+        "baths": 3,
+        "sqft": "3,775",
+        "address": "2490 Pine St, San Diego, CA 70332",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Large garage",
+            "Swimming pool",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 34,
+        "price": "$313,272",
+        "beds": 2,
+        "baths": 5,
+        "sqft": "2,826",
+        "address": "1322 Pine St, New York, NY 97107",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Gated community",
+            "Close to public transport",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 35,
+        "price": "$568,496",
+        "beds": 5,
+        "baths": 5,
+        "sqft": "1,607",
+        "address": "3984 Maple St, Chicago, IL 51210",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Swimming pool"
+        ]
+    },
+    {
+        "id": 36,
+        "price": "$589,079",
+        "beds": 5,
+        "baths": 3,
+        "sqft": "3,055",
+        "address": "1151 Cedar St, Miami, FL 34960",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Gated community",
+            "Ocean view",
+            "Large garage"
+        ]
+    },
+    {
+        "id": 37,
+        "price": "$893,350",
+        "beds": 5,
+        "baths": 3,
+        "sqft": "3,830",
+        "address": "1625 Pine St, Seattle, WA 55359",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Swimming pool",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 38,
+        "price": "$428,020",
+        "beds": 6,
+        "baths": 5,
+        "sqft": "3,782",
+        "address": "1799 Oak St, Washington, DC 74193",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Pet-friendly",
+            "Walking distance to parks",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 39,
+        "price": "$991,994",
+        "beds": 5,
+        "baths": 4,
+        "sqft": "1,752",
+        "address": "3946 Pine St, Portland, OR 77376",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Swimming pool",
+            "Walking distance to parks",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 40,
+        "price": "$770,057",
+        "beds": 4,
+        "baths": 3,
+        "sqft": "2,359",
+        "address": "1867 Cedar St, San Diego, CA 53115",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Large garage",
+            "Modern kitchen with new appliances",
+            "Ocean view",
+            "Gated community"
+        ]
+    },
+    {
+        "id": 41,
+        "price": "$813,767",
+        "beds": 6,
+        "baths": 5,
+        "sqft": "1,861",
+        "address": "2848 Oak St, Seattle, WA 91352",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Walking distance to parks",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 42,
+        "price": "$882,650",
+        "beds": 4,
+        "baths": 2,
+        "sqft": "1,896",
+        "address": "3487 Pine St, San Francisco, CA 18232",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Ocean view",
+            "Gated community"
+        ]
+    },
+    {
+        "id": 43,
+        "price": "$493,281",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "2,921",
+        "address": "3652 Maple St, Austin, TX 55212",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Gated community",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 44,
+        "price": "$781,179",
+        "beds": 5,
+        "baths": 4,
+        "sqft": "2,339",
+        "address": "1172 Pine St, Los Angeles, CA 81175",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Swimming pool",
+            "Well-maintained backyard",
+            "Walking distance to parks",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 45,
+        "price": "$886,917",
+        "beds": 3,
+        "baths": 4,
+        "sqft": "3,833",
+        "address": "2631 Oak St, Miami, FL 10111",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Gated community",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 46,
+        "price": "$390,808",
+        "beds": 4,
+        "baths": 5,
+        "sqft": "3,646",
+        "address": "2564 Pine St, Phoenix, AZ 74855",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Pet-friendly",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 47,
+        "price": "$631,776",
+        "beds": 4,
+        "baths": 5,
+        "sqft": "2,682",
+        "address": "1427 Pine St, Orlando, FL 93010",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Well-maintained backyard",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 48,
+        "price": "$953,006",
+        "beds": 3,
+        "baths": 3,
+        "sqft": "1,515",
+        "address": "1954 Oak St, Chicago, IL 62260",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Swimming pool",
+            "Ocean view",
+            "Large garage",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 49,
+        "price": "$503,368",
+        "beds": 2,
+        "baths": 5,
+        "sqft": "2,229",
+        "address": "1306 Cedar St, Houston, TX 79318",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Ocean view"
+        ]
+    },
+    {
+        "id": 50,
+        "price": "$992,365",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "3,994",
+        "address": "3339 Cedar St, Chicago, IL 23428",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Walking distance to parks",
+            "Well-maintained backyard"
+        ]
+    },
+    {
+        "id": 51,
+        "price": "$746,039",
+        "beds": 2,
+        "baths": 5,
+        "sqft": "3,876",
+        "address": "2390 Pine St, Phoenix, AZ 10667",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Close to public transport",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 52,
+        "price": "$443,008",
+        "beds": 4,
+        "baths": 3,
+        "sqft": "3,984",
+        "address": "1075 Oak St, Denver, CO 54939",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Large garage",
+            "Walking distance to parks"
+        ]
+    },
+    {
+        "id": 53,
+        "price": "$968,444",
+        "beds": 4,
+        "baths": 3,
+        "sqft": "3,753",
+        "address": "4147 Oak St, Phoenix, AZ 82943",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Large garage",
+            "Gated community"
+        ]
+    },
+    {
+        "id": 54,
+        "price": "$336,978",
+        "beds": 4,
+        "baths": 2,
+        "sqft": "2,461",
+        "address": "2150 Cedar St, San Francisco, CA 82018",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Gated community",
+            "Ocean view"
+        ]
+    },
+    {
+        "id": 55,
+        "price": "$645,808",
+        "beds": 6,
+        "baths": 5,
+        "sqft": "2,495",
+        "address": "1848 Maple St, Denver, CO 84749",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Large garage",
+            "Pet-friendly",
+            "Well-maintained backyard"
+        ]
+    },
+    {
+        "id": 56,
+        "price": "$415,871",
+        "beds": 5,
+        "baths": 4,
+        "sqft": "2,573",
+        "address": "1549 Oak St, Austin, TX 59217",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Gated community",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 57,
+        "price": "$626,600",
+        "beds": 5,
+        "baths": 4,
+        "sqft": "3,376",
+        "address": "3592 Maple St, Phoenix, AZ 62304",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Close to public transport",
+            "Modern kitchen with new appliances",
+            "Large garage"
+        ]
+    },
+    {
+        "id": 58,
+        "price": "$946,085",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "2,842",
+        "address": "2240 Maple St, Detroit, MI 77542",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Close to public transport",
+            "Pet-friendly",
+            "Gated community"
+        ]
+    },
+    {
+        "id": 59,
+        "price": "$481,119",
+        "beds": 5,
+        "baths": 3,
+        "sqft": "3,735",
+        "address": "3809 Pine St, Orlando, FL 12903",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Swimming pool",
+            "Pet-friendly",
+            "Gated community",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 60,
+        "price": "$926,594",
+        "beds": 3,
+        "baths": 2,
+        "sqft": "2,295",
+        "address": "3872 Maple St, Philadelphia, PA 38788",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Large garage"
+        ]
+    },
+    {
+        "id": 61,
+        "price": "$746,715",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "3,088",
+        "address": "2332 Pine St, Los Angeles, CA 95459",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Ocean view",
+            "Modern kitchen with new appliances",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 62,
+        "price": "$310,083",
+        "beds": 4,
+        "baths": 4,
+        "sqft": "2,775",
+        "address": "2765 Maple St, Boston, MA 21899",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Swimming pool",
+            "Large garage",
+            "Ocean view"
+        ]
+    },
+    {
+        "id": 63,
+        "price": "$870,170",
+        "beds": 5,
+        "baths": 3,
+        "sqft": "1,517",
+        "address": "3343 Elm St, Seattle, WA 39682",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Large garage",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 64,
+        "price": "$842,603",
+        "beds": 6,
+        "baths": 2,
+        "sqft": "2,082",
+        "address": "1905 Oak St, San Francisco, CA 18300",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Close to public transport",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 65,
+        "price": "$870,090",
+        "beds": 4,
+        "baths": 3,
+        "sqft": "3,440",
+        "address": "2047 Pine St, Portland, OR 92478",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Pet-friendly",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 66,
+        "price": "$669,748",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "3,136",
+        "address": "2065 Oak St, Portland, OR 92514",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Walking distance to parks",
+            "Ocean view",
+            "Well-maintained backyard"
+        ]
+    },
+    {
+        "id": 67,
+        "price": "$621,351",
+        "beds": 3,
+        "baths": 5,
+        "sqft": "1,894",
+        "address": "2585 Elm St, Las Vegas, NV 40611",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Gated community",
+            "Large garage"
+        ]
+    },
+    {
+        "id": 68,
+        "price": "$613,559",
+        "beds": 5,
+        "baths": 4,
+        "sqft": "1,940",
+        "address": "1124 Oak St, Austin, TX 32734",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 69,
+        "price": "$318,056",
+        "beds": 5,
+        "baths": 4,
+        "sqft": "2,719",
+        "address": "4373 Oak St, Washington, DC 89304",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Walking distance to parks"
+        ]
+    },
+    {
+        "id": 70,
+        "price": "$477,635",
+        "beds": 6,
+        "baths": 4,
+        "sqft": "1,804",
+        "address": "2454 Pine St, Washington, DC 19725",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Well-maintained backyard",
+            "Swimming pool"
+        ]
+    },
+    {
+        "id": 71,
+        "price": "$505,303",
+        "beds": 4,
+        "baths": 5,
+        "sqft": "3,514",
+        "address": "4772 Oak St, Clarksville, TN 35488",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Large garage",
+            "Gated community",
+            "Recently renovated",
+            "Walking distance to parks"
+        ]
+    },
+    {
+        "id": 72,
+        "price": "$781,015",
+        "beds": 5,
+        "baths": 4,
+        "sqft": "2,972",
+        "address": "3689 Maple St, Orlando, FL 34298",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Gated community",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 73,
+        "price": "$301,855",
+        "beds": 6,
+        "baths": 3,
+        "sqft": "2,981",
+        "address": "3753 Cedar St, Philadelphia, PA 19267",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Swimming pool",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 74,
+        "price": "$768,368",
+        "beds": 5,
+        "baths": 5,
+        "sqft": "2,246",
+        "address": "3434 Cedar St, Miami, FL 47094",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Walking distance to parks"
+        ]
+    },
+    {
+        "id": 75,
+        "price": "$808,028",
+        "beds": 4,
+        "baths": 3,
+        "sqft": "1,848",
+        "address": "4463 Maple St, Dallas, TX 44378",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Pet-friendly",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 76,
+        "price": "$541,590",
+        "beds": 6,
+        "baths": 4,
+        "sqft": "2,779",
+        "address": "1284 Maple St, San Francisco, CA 41187",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Recently renovated",
+            "Walking distance to parks"
+        ]
+    },
+    {
+        "id": 77,
+        "price": "$870,606",
+        "beds": 3,
+        "baths": 4,
+        "sqft": "2,843",
+        "address": "2191 Elm St, Las Vegas, NV 59549",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Close to public transport",
+            "Walking distance to parks",
+            "Swimming pool",
+            "Gated community"
+        ]
+    },
+    {
+        "id": 78,
+        "price": "$403,146",
+        "beds": 3,
+        "baths": 5,
+        "sqft": "3,718",
+        "address": "1914 Oak St, Atlanta, GA 59116",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Ocean view",
+            "Pet-friendly",
+            "Walking distance to parks"
+        ]
+    },
+    {
+        "id": 79,
+        "price": "$684,056",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "3,292",
+        "address": "3507 Cedar St, Orlando, FL 43141",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Walking distance to parks",
+            "Large garage",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 80,
+        "price": "$327,536",
+        "beds": 6,
+        "baths": 5,
+        "sqft": "1,875",
+        "address": "1639 Cedar St, Washington, DC 55211",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Well-maintained backyard",
+            "Walking distance to parks",
+            "Ocean view"
+        ]
+    },
+    {
+        "id": 81,
+        "price": "$571,864",
+        "beds": 6,
+        "baths": 2,
+        "sqft": "1,631",
+        "address": "4339 Elm St, Los Angeles, CA 88455",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Close to public transport",
+            "Large garage"
+        ]
+    },
+    {
+        "id": 82,
+        "price": "$944,357",
+        "beds": 6,
+        "baths": 2,
+        "sqft": "2,330",
+        "address": "1325 Maple St, Seattle, WA 11826",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Large garage"
+        ]
+    },
+    {
+        "id": 83,
+        "price": "$781,063",
+        "beds": 6,
+        "baths": 3,
+        "sqft": "2,142",
+        "address": "2081 Oak St, Portland, OR 29899",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Walking distance to parks",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 84,
+        "price": "$462,199",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "2,810",
+        "address": "1709 Oak St, Austin, TX 60376",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Large garage",
+            "Recently renovated",
+            "Well-maintained backyard",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 85,
+        "price": "$871,629",
+        "beds": 3,
+        "baths": 4,
+        "sqft": "2,850",
+        "address": "4560 Elm St, Las Vegas, NV 18465",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Swimming pool",
+            "Gated community",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 86,
+        "price": "$990,834",
+        "beds": 2,
+        "baths": 3,
+        "sqft": "2,850",
+        "address": "3537 Pine St, Seattle, WA 42565",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Swimming pool",
+            "Well-maintained backyard",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 87,
+        "price": "$433,664",
+        "beds": 6,
+        "baths": 4,
+        "sqft": "3,781",
+        "address": "2244 Pine St, Phoenix, AZ 16112",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Ocean view",
+            "Recently renovated",
+            "Walking distance to parks",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 88,
+        "price": "$326,776",
+        "beds": 6,
+        "baths": 3,
+        "sqft": "3,066",
+        "address": "4886 Pine St, Orlando, FL 85288",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Swimming pool",
+            "Recently renovated",
+            "Modern kitchen with new appliances"
+        ]
+    },
+    {
+        "id": 89,
+        "price": "$814,615",
+        "beds": 4,
+        "baths": 5,
+        "sqft": "2,987",
+        "address": "1950 Pine St, Austin, TX 74384",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Large garage",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 90,
+        "price": "$538,693",
+        "beds": 3,
+        "baths": 5,
+        "sqft": "1,871",
+        "address": "2186 Cedar St, Clarksville, TN 22863",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Pet-friendly",
+            "Gated community",
+            "Large garage"
+        ]
+    },
+    {
+        "id": 91,
+        "price": "$709,068",
+        "beds": 4,
+        "baths": 4,
+        "sqft": "3,368",
+        "address": "3355 Cedar St, Seattle, WA 56227",
+        "image": "/real-estate-2.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Gated community",
+            "Recently renovated",
+            "Ocean view",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 92,
+        "price": "$769,970",
+        "beds": 4,
+        "baths": 5,
+        "sqft": "2,560",
+        "address": "1446 Pine St, Seattle, WA 80685",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Modern kitchen with new appliances",
+            "Ocean view"
+        ]
+    },
+    {
+        "id": 93,
+        "price": "$600,279",
+        "beds": 4,
+        "baths": 4,
+        "sqft": "2,202",
+        "address": "2891 Maple St, Boston, MA 73900",
+        "image": "/real-estate-4.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Walking distance to parks",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 94,
+        "price": "$300,127",
+        "beds": 5,
+        "baths": 5,
+        "sqft": "2,092",
+        "address": "1189 Elm St, Dallas, TX 42666",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Large garage",
+            "Walking distance to parks"
+        ]
+    },
+    {
+        "id": 95,
+        "price": "$690,032",
+        "beds": 2,
+        "baths": 5,
+        "sqft": "2,378",
+        "address": "2536 Elm St, Atlanta, GA 15200",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Modern kitchen with new appliances",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 96,
+        "price": "$611,009",
+        "beds": 4,
+        "baths": 5,
+        "sqft": "2,070",
+        "address": "2082 Cedar St, Boston, MA 82503",
+        "image": "/real-estate-3.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Walking distance to parks",
+            "Recently renovated",
+            "Swimming pool",
+            "Pet-friendly"
+        ]
+    },
+    {
+        "id": 97,
+        "price": "$572,223",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "2,699",
+        "address": "4757 Oak St, Miami, FL 63813",
+        "image": "/real-estate-5.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Gated community",
+            "Large garage",
+            "Walking distance to parks",
+            "Ocean view"
+        ]
+    },
+    {
+        "id": 98,
+        "price": "$926,830",
+        "beds": 5,
+        "baths": 2,
+        "sqft": "3,644",
+        "address": "3637 Maple St, Denver, CO 62893",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Well-maintained backyard",
+            "Recently renovated",
+            "Modern kitchen with new appliances",
+            "Close to public transport"
+        ]
+    },
+    {
+        "id": 99,
+        "price": "$402,347",
+        "beds": 2,
+        "baths": 2,
+        "sqft": "3,862",
+        "address": "4921 Pine St, Atlanta, GA 88135",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Close to public transport",
+            "Ocean view",
+            "Recently renovated"
+        ]
+    },
+    {
+        "id": 100,
+        "price": "$725,138",
+        "beds": 3,
+        "baths": 2,
+        "sqft": "3,715",
+        "address": "2285 Pine St, Phoenix, AZ 71069",
+        "image": "/real-estate-1.jpg",
+        "description": "Super cool house. Buy this sweet home and never disappoint your friends/family again!",
+        "features": [
+            "Close to public transport",
+            "Recently renovated",
+            "Gated community"
+        ]
+    }
+]
