@@ -26,7 +26,7 @@ WebDriverWait(driver, 10).until(
 )
 
 # Prepare CSV file and write header
-output_dir = Path.home() / "dan-guide" / "lesson10-introduction-to-web-scraping" / "wk10_z_csv"
+output_dir = Path(__file__).resolve().parent / "wk10_z_csv"
 output_dir.mkdir(parents=True, exist_ok=True)
 output_file = output_dir / "scraped_data.csv"
 with output_file.open(mode='w', newline='', encoding='utf-8') as file:
