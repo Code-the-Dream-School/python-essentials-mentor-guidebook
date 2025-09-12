@@ -1,4 +1,5 @@
 # Order for teaching:
+# Youtube video for mentors to understand how to use this content: https://www.youtube.com/watch?v=D6ft3XwWTc8
 # make sure to install any missing packages, they are in the parent requirements.txt - pip install -r requirements.txt
 # cd wk10_website
 # use npm or bun
