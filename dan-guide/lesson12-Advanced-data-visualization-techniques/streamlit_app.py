@@ -37,6 +37,8 @@ st.subheader("Data Preview")
 st.write(df)
 
 # Create an interactive scatter plot using Plotly
+st.subheader("Scatter Plot")
+st.caption("Good for showing the relationship between two variables and grouping by categories.")
 fig = px.scatter(df, x="X", y="Y", color="Category", title="Random Data Scatter Plot", 
                 color_discrete_sequence=["darkmagenta", "aliceblue", "blue"])
 
@@ -49,6 +51,27 @@ fig = px.scatter(df, x="X", y="Y", color="Category", title="Random Data Scatter 
 
 # Show the plot
 st.plotly_chart(fig)
+
+# Line plot of X vs Y
+st.subheader("Line Plot")
+st.caption("Useful for showing trends or changes over continuous data, such as time series.")
+line_fig = px.line(df.sort_values("X"), x="X", y="Y", title="Line Plot of X vs Y")
+st.plotly_chart(line_fig)
+
+# Bar plot: count of categories
+st.subheader("Bar Plot")
+st.caption("Best for comparing values across categories, like product sales or survey responses.")
+bar_fig = px.bar(df["Category"].value_counts().reset_index(),
+                 x="index", y="Category",
+                 labels={"index": "Category", "Category": "Count"},
+                 title="Bar Plot of Category Counts")
+st.plotly_chart(bar_fig)
+
+# Histogram of X values
+st.subheader("Histogram")
+st.caption("Great for analyzing the distribution of numerical data, spotting patterns or outliers.")
+hist_fig = px.histogram(df, x="X", nbins=20, title="Histogram of X Values")
+st.plotly_chart(hist_fig)
 
 # Display instructions
 st.markdown("""
