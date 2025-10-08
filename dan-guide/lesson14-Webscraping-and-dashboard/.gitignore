@@ -1,0 +1,8 @@
+Add these lines to your .gitignore file:
+# CSV files
+*.csv
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3

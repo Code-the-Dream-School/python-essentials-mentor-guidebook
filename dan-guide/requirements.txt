@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+pytest==8.4.1
+rich==14.0.0
+virtualenv==20.31.2
+pyreadline3==3.5.4
+questionary==2.0.1
+webdriver-manager==4.0.2

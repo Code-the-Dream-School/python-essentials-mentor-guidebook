@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# macOS / Windows artifacts
+.DS_Store
+Thumbs.db
